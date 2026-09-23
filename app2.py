@@ -2,6 +2,15 @@
 name = input("qual seu nome? ")
 age = input("qual sua idade ")
 
+age = int(age)
+
+#criar uma função
+def biscoito ():
+    x = "esta com fome!"
+    print ("Rose", x)
+
+biscoito ()
+
 print(type(name))
 print(type(age))
 
