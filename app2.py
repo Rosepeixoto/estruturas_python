@@ -5,7 +5,6 @@ age = input("qual sua idade ")
 print(type(name))
 print(type(age))
 
-age = int(age)
 
 older = age + 10
 
